@@ -1,6 +1,6 @@
-[![Go Reference](https://pkg.go.dev/badge/github.com/lingvanex-mt/lingvanex-mt-go-pkg.svg)](https://pkg.go.dev/github.com/lingvanex-mt/lingvanex-go-pkg)
-
 # Lingvanex API
+
+[![Go Reference](https://pkg.go.dev/badge/github.com/lingvanex-mt/lingvanex-mt-go-pkg.svg)](https://pkg.go.dev/github.com/lingvanex-mt/lingvanex-go-pkg)
 
 Discover the Power of Lingvanex Translator Service
 
